@@ -1,0 +1,7 @@
+KPI,Value,Unit
+Late Delivery Rate,57.28996035076549,%
+Average Actual Shipping Time,3.4985963592162763,days
+Average Scheduled Shipping Time,2.9330998755534976,days
+Average Schedule Variance,0.5654964836627789,days
+Average Delay Among Late Deliveries,1.6181840225506936,days
+Median Delay Among Late Deliveries,1.0,days
